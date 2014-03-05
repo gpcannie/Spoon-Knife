@@ -1,1 +1,2 @@
 This is a new file to be used while learning git and github.
+Adding a new line.  Hopefully I'll do better with the commit messagre this time.
